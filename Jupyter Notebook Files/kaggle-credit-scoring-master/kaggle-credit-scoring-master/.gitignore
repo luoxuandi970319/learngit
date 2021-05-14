@@ -1,0 +1,8 @@
+.DS_Store
+*.csv
+*.xls
+*.docx
+.ipynb_checkpoints/
+__pycache__
+*.p
+*.pyc
